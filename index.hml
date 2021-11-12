@@ -1,1 +1,18 @@
 <h1> Data analysis tools </h1>
+
+<h2>General pipelines</h2>
+  Fiji
+  Ilastik
+  CellProfiler
+ 
+<h2>Deep learning segmentation</h2>
+  Stardist
+  Cellpose
+  Plantseg (membrane)
+  
+<h2>Tracking</h2>
+  
+  
+<h2>Other software lists</h2>
+   Biaflows
+   Paperswithcode
